@@ -23,6 +23,8 @@ Load the converted file to a usb stick and insert into printer
 Manually load filament 
 Print as usual from Bambu control panel
 
+V1.2 added retract and un-retract / prime settings too!
+
 ## Disclaimer
 
 **G-Code Commander** is provided free of charge as an experimental utility.
